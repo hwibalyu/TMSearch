@@ -1,0 +1,6 @@
+framework module Pods_TMSearch {
+  umbrella header "Pods-TMSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
